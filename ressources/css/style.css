@@ -28,6 +28,9 @@ p {
 .image {
     color: white;
 }
+body {
+  background-color: black;    
+}
 footer {
   text-align: right;
   color: Gray;
